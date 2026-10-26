@@ -14,5 +14,10 @@ Para comprimir un archivo:
 Para descomprimir:
 ./descomprimir archivo.txt.huff
 
+## Demostración
+Aquí se muestra el programa compilando y ejecutándose correctamente:
+
+![Ejecución del programa](ejemplo.png)
+
 ## Autor
 Christopher Gómez - Programación Avanzada
